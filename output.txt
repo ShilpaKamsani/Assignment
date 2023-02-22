@@ -1,0 +1,8 @@
+name
+age
+gender
+occupation
+Alice
+30
+Female
+Engineer
